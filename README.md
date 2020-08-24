@@ -7,32 +7,32 @@ Hi! This is my CS50x solution. Don't be an academic dishonesty student. While th
 📁 Cash
 📁 Credit
 
-**Problem Set 2: Arrays**
+**Problem Set 2: Arrays -**
 📁 Caesar 
 📁 Readability
 
-**Problem Set 3: Algorithms**
+**Problem Set 3: Algorithms -**
 📁 Plurality
 📁 Runoff
 
-**Problem Set 4: Memory**
+**Problem Set 4: Memory -**
 📁 Filter
 📁 Recover 
 
-**Problem Set 5: Data Structures**
+**Problem Set 5: Data Structures -**
 📁 Speller
 
-**Problem Set 6: Python**
+**Problem Set 6: Python -**
 📁 Mario
 📁 Cash
 📁 Dna
 📁 Readability
 
-**Problem Set 7: SQL**
+**Problem Set 7: SQL -**
 📁 Houses
 📁 Movies
 
-**Problem Set 8: Finance**
+**Problem Set 8: Finance -**
 🐍 Application.py
 📙 finance.db
 📁 Templates
