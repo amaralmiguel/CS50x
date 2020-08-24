@@ -42,5 +42,4 @@ int main(void)
      
     printf("%i\n", moedas);
     return 0;
-
 }
